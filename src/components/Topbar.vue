@@ -19,7 +19,7 @@
           S
         </div>
         <div>
-          <h1 class="text-xl font-semibold">Dashboard Overview</h1>
+          <h1 class="text-xl font-semibold"></h1>
           <p class="text-xs text-slate-400">Welcome back — here's what's happening</p>
         </div>
       </div>
@@ -40,7 +40,7 @@
           SS
         </div>
         <div class="text-right">
-          <p class="text-sm font-medium">Panha</p>
+          <p class="text-sm font-medium">Bicycle Shop</p>
           <p class="text-xs text-slate-400">Admin</p>
         </div>
       </div>

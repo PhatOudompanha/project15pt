@@ -13,7 +13,7 @@
         S
       </div>
       <div>
-        <div class="text-2xl font-bold">Panha</div>
+        <div class="text-2xl font-bold">Bicycle Shop</div>
         <div class="text-xs text-slate-400">Admin Dashboard</div>
       </div>
     </div>
